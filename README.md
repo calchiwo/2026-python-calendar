@@ -1,3 +1,2 @@
 # 2026-python-calendar
-This python script generates the full 2026 calendar in the terminal.
-It includes month formatting, ISO week numbers, and clean output.
+A simple Python script that prints a full 2026 calendar with ISO week numbers.
